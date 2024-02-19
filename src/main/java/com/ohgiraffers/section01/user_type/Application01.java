@@ -53,7 +53,7 @@ public class Application01 {
         /* 목차 2-2. 생성된 인스턴스의 초기값 확인하기 */
 
         /* 필기
-        *   상기와 같이 객체를 생성하고 나면, 서로 다른 자료형들은 하나의 member라는 변수명으로 관리할 수 있도록 공간을 생성한 것
+        *   상기(Member)와 같이 객체를 생성하고 나면, 서로 다른 자료형들은 하나의 member라는 변수명으로 관리할 수 있도록 공간을 생성한 것
         *   heap이라는 공간에 생성되기 때문에 jvm이 제공하는 기본값들로 초기화 됨 */
 
         /* 필기
@@ -78,7 +78,7 @@ public class Application01 {
 //        member.hobby : null
 
 
-        /* 목차 2-3. 전역변수에 접근해서 변수 사용하듯 사용해보기 */
+        /* 목차 2-3. 필드에 접근해서 변수 사용하듯 사용해보기 */
         member.id = "user01";
         member.pwd = "password01";
         member.name = "조평훈";

@@ -1,12 +1,12 @@
 package com.ohgiraffers.section02.encapsulation.problem2;
-
-//public class Application01 {
 //
+//public class Application01 {
+
 //    public static void main(String[] args) {
 //
 //        /* 수업목표 : 필드에 직접 접근하는 경우 발생할 수 있는 문제점(2) */
-////
-////        Monster monster1 = new Monster();
+//////
+//        Monster monster1 = new Monster();
 //        monster1.name = "드라큘라";
 //        monster1.hp = 200;
 //
